@@ -686,7 +686,8 @@
   border-radius: 0.4vw;
   box-sizing: border-box;
   max-height: 60vw;
-  font-size: 1.5vw; /* Font size in vw */
+  font-size: 1.5vw; 
+resize:none;/* Font size in vw */
 }
 
 .contact-form button {
